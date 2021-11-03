@@ -1,7 +1,6 @@
 {
   "name": "skillbox-videocall-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -15,5 +14,14 @@
     "firebase-tools": "^9.21.0",
     "nodemon": "^2.0.14",
     "socket.io": "^4.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilraj99/skillbox-videocall-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dilraj99/skillbox-videocall-backend/issues"
+  },
+  "homepage": "https://github.com/Dilraj99/skillbox-videocall-backend#readme",
+  "description": ""
 }
